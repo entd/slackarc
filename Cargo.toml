@@ -2,5 +2,10 @@
 name = "slackarc"
 version = "0.1.0"
 edition = "2021"
+license-file = "LICENSE"
+keywords = ["utility"]
+description = "Utility allowing easily define global Arc objects, lazyly initialized on demand"
+readme = "README.md"
+repository = "https://github.com/entd/slackarc"
 
 [dependencies]
